@@ -1,1 +1,1 @@
- I this project I fetched list of books from an API and display some information about the books in a table.User can search the book he wanted and also can get brief information about the book by clicking on the description option.
+ In this project, I fetched a list of books from an API and displayed some information about the books in a table. Users can search for the book they want and also can get brief information about the book by clicking on the description option.
